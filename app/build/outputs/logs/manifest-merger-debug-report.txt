@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\ed02e251c1d6fdb051446b1683c7d30097461924\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\2c4c31fc712f27929d0be333748d5db5b1be36fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\523bfec80a83fb548810829e9f19d433d597c762\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\b49ce9bdfe32574e920c627b4ed8a8e69625b692\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\84a30abb1c0e19059abb808f19f24103c86458ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\1bf33532811d8e01c156f929dde989677a1efcdc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\5081a301193c072a184d4be44cace91c84094a12\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\7d162026423ef3ef68e82e2d7ae66c919b7e2251\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.baobomb.popuplistview.DemoActivity
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\ed02e251c1d6fdb051446b1683c7d30097461924\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\2c4c31fc712f27929d0be333748d5db5b1be36fc\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\523bfec80a83fb548810829e9f19d433d597c762\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\b49ce9bdfe32574e920c627b4ed8a8e69625b692\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\84a30abb1c0e19059abb808f19f24103c86458ce\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\1bf33532811d8e01c156f929dde989677a1efcdc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\5081a301193c072a184d4be44cace91c84094a12\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\7d162026423ef3ef68e82e2d7ae66c919b7e2251\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\shixuntwo_work\texiao\PopupListView-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\dell\.android\build-cache\ed02e251c1d6fdb051446b1683c7d30097461924\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\2c4c31fc712f27929d0be333748d5db5b1be36fc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\dell\.android\build-cache\523bfec80a83fb548810829e9f19d433d597c762\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\dell\.android\build-cache\b49ce9bdfe32574e920c627b4ed8a8e69625b692\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\dell\.android\build-cache\84a30abb1c0e19059abb808f19f24103c86458ce\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\1bf33532811d8e01c156f929dde989677a1efcdc\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\dell\.android\build-cache\5081a301193c072a184d4be44cace91c84094a12\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\dell\.android\build-cache\7d162026423ef3ef68e82e2d7ae66c919b7e2251\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\dell\.android\build-cache\c4cfee332eefb3bde8025c99458e8775aaed18f6\output\AndroidManifest.xml:26:9-47

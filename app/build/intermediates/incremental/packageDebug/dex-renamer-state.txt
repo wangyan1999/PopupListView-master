@@ -1,0 +1,4 @@
+#Mon Nov 27 08:34:52 CST 2017
+base.0=E\:\\shixuntwo_work\\texiao\\PopupListView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\shixuntwo_work\\texiao\\PopupListView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
